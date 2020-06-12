@@ -1,0 +1,22 @@
+#root,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+.app {
+  height: 100%;
+  background: url("../images/png-transparent-marlon-brando-vito-corleone-fredo-corleone-michael-corleone-the-godfather-s-human-film-al-pacino.png");
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  background: black;
+  color: antiquewhite;
+}
