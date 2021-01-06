@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square">
 </div>
 
->A web application that show you some random advice
+>A web application that shows you some random advice
  
  ## 🎩 Screenshot
  <img src="src\images\Generator.PNG" alt="Interface"/>
